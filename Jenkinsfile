@@ -2,7 +2,7 @@
 
 // Variables
 env.COMPONENT = "catalogue"
-env.BUILD_LABEL = "WORKSTATION"
+env.BUILD_LABEL = "WORKER2"
 
 // Library Groovy file
 nodejs()
